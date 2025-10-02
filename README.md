@@ -6,13 +6,13 @@ This solver is designed to solve a set of problems (A, B, and C) by applying spe
 To run the solver for each problem, use the following commands:
 
 - **Problem A:**  
-  `python solver.py --problem A`
+  `python Task2.py --problem A`
 
 - **Problem B:**  
-  `python solver.py --problem B`
+  `python Task2.py --problem B`
 
 - **Problem C:**  
-  `python solver.py --problem C`
+  `python Task2.py --problem C`
 
 Make sure you have Python installed and all required dependencies before running the solver.
 
@@ -20,6 +20,6 @@ Make sure you have Python installed and all required dependencies before running
 
 After running the solver, you will get:
 
-- The **solution** printed to the console or saved in an output file.
+- The **solution** is printed to the console or saved in an output file.
 - The **number of violated axioms (NVA)** associated with the solution.
 - A **CSV file** containing detailed results and metrics for the problem solved.
